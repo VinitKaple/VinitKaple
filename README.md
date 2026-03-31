@@ -53,10 +53,10 @@ Building things that solve real problems 🚀 <br>
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitkaple&show_icons=true&locale=en&layout=compact" alt="vinitkaple" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitkaple&theme=minimal" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Let’s+connect+and+collaborate;Let’s+build+something+meaningful+together;Thank+you+for+visiting" />
